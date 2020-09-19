@@ -8,7 +8,7 @@
     "test:staged": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Edie Johnny",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.14",
